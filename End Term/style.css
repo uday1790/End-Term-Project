@@ -1,0 +1,42 @@
+body {
+    background-image: url('cov1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: Calibri;
+}
+#info
+{
+    position: relative;
+    background-color: rgb(66, 75, 199);
+    color: antiquewhite;
+    text-align: center;
+    width: 30%;
+    border: 15px ;
+    padding: 60px;
+    margin: 50px;
+    margin-left: 500px;
+    display: none;
+}
+#country{
+    position: relative;
+    margin-top: 3%;
+    margin-left: 13%;
+}
+#start{
+    position: relative;
+    margin-left:13%; 
+    margin-top: 3%;
+}
+#end{
+    position: relative;
+    margin-left:13%; 
+    margin-top: 3%;
+}
+.btn1{
+    position: relative;
+    margin-left:8%; 
+    margin-top: 3%;
+    background-color: blue;
+    color: cornsilk;
+    font-family: Calibri;
+}
